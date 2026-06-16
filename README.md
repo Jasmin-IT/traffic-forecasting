@@ -1,16 +1,9 @@
 # Traffic Forecast - Time Series Analysis
 
-This repository contains a time series forecasting project to predict traffic on the JetRail propulsion transport network over the next 7 months.
-
-## Dataset Information
-
-Unicorn Ventures is considering investing in JetRail, a new form of high-speed jet propulsion transportation. The investment is viable only if JetRail gets more than 1 million monthly users within the next 18 months. This project builds a forecasting model to help them make an informed investment decision.
-
 ### Attribute Information:
 * **Datetime** - Date and time of the day
 * **Count** - Count of the vehicle
 
-* **Download Link:** [Analytics Vidhya Time Series Practice Problem](https://datahack.analyticsvidhya.com/contest/practice-problem-time-series-2/)
 
 ## Requirements
 
